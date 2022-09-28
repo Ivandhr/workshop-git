@@ -1,3 +1,5 @@
 
 Este es el inicio del resumen.
 Durante este workshop, practicaremos el uso básico de Git, enfocado en integración de proyectos de automatización y control
+
+Este parrafo fue creado desde el site de Github, para probar el comando git pull origin main.
