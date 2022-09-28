@@ -1,2 +1,3 @@
 
 Este es el inicio del resumen.
+Durante este workshop, practicaremos el uso básico de Git, enfocado en integración de proyectos de automatización y control
