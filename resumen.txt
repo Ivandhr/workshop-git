@@ -12,5 +12,4 @@ Párrafo creado desde el github logal de William.
 Este párrafo fue creado desde el repositorio local de Ivan Hernandez.
 
 
-
 Este párrafo se creó desde el local de Sebastian.
