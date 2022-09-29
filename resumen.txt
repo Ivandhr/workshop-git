@@ -7,3 +7,10 @@ Este parrafo fue creado desde el site de Github, para probar el comando git pull
 Este parrafo fue creado desde la rama develop local, vamos a probar el comando merge.
 
 Párrafo creado desde el github logal de William.
+
+
+Este párrafo fue creado desde el repositorio local de Ivan Hernandez.
+
+
+
+Este párrafo se creó desde el local de Sebastian.
