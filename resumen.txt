@@ -5,3 +5,8 @@ Durante este workshop, practicaremos el uso básico de Git, enfocado en integrac
 Este parrafo fue creado desde el site de Github, para probar el comando git pull origin main.
 
 Este parrafo fue creado desde la rama develop local, vamos a probar el comando merge.
+
+
+
+
+Este párrafo se creó desde el local de Sebastian.
